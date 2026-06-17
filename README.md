@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Avanit Singh 👋
 
-<!--
-**avanit-singh/avanit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | Fintech & Banking Domain | Azure | PySpark | SQL**
 
-Here are some ideas to get you started:
+📍 Gurgaon, India
+📧 avnitsinghs24@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/avsinghs24/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python (Pandas, NumPy) · SQL  
+**Big Data:** PySpark · Apache Spark  
+**Cloud:** Azure Data Lake Storage · Azure Data Factory · Azure Databricks · AWS Databricks  
+**Visualisation:** Power BI · Advanced Excel  
+**Domain:** Fintech · Payments · BFSI · Merchant Analytics · KYC/AML
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [Azure Card Transaction ETL Pipeline](#) | ADF · ADLS · Databricks · PySpark | End-to-end ETL pipeline for Master/Visa transaction data |
+| [Customer Churn Analysis](#) | SQL · Python · Power BI | Churn driver analysis for banking customers |
+| [Merchant Analytics Dashboard](#) | SQL · Python · Power BI | Payment gateway and settlement performance tracking |
+| [Banking KPI Dashboard](#) | SQL · Power BI · Excel | Executive CASA and loan disbursement reporting |
+
+---
+
+## 📜 Certifications
+🔄 Microsoft Azure Data Engineer Associate (DP-203) — In Progress
+
+---
+
+*Currently open to Data Engineer and Data Analyst opportunities in BFSI domain.*
