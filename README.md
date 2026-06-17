@@ -21,15 +21,11 @@
 ## 📂 Featured Projects
 
 | Project | Tools | Description |
-|---|---|---|
-| [Azure Card Transaction ETL Pipeline](#)
-[https://github.com/avanit-singh/azure-card-transaction-etl-pipeline] | ADF · ADLS · Databricks · PySpark | End-to-end ETL pipeline for Master/Visa transaction data |
-| [Customer Churn Analysis](#) [https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers]
-| SQL · Python · Power BI | Churn driver analysis for banking customers |
-| [Merchant Analytics Dashboard](#) [https://github.com/avanit-singh/merchant-transaction-analytics]
-| SQL · Python · Power BI | Payment gateway and settlement performance tracking |
-| [Banking KPI Dashboard](#) [https://github.com/avanit-singh/banking-kpi-dashboard]
-| SQL · Power BI · Excel | Executive CASA and loan disbursement reporting |
+| :--- | :---: | :--- |
+| 💳 **[Azure Card Transaction ETL Pipeline](https://github.com/avanit-singh/azure-card-transaction-etl-pipeline)** | `ADF` `ADLS` `Databricks` `PySpark` | End-to-end ETL pipeline for Master/Visa transaction data |
+| 🏦 **[Customer Churn Analysis](https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers)** | `SQL` `Python` `Power BI` | Churn driver analysis for banking customers |
+| 🛒 **[Merchant Analytics Dashboard](https://github.com/avanit-singh/merchant-transaction-analytics)** | `SQL` `Python` `Power BI` | Payment gateway and settlement performance tracking |
+| 📈 **[Banking KPI Dashboard](https://github.com/avanit-singh/banking-kpi-dashboard)** | `SQL` `Power BI` `Excel` | Executive CASA and loan disbursement reporting |
 
 ---
 
