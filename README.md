@@ -2,9 +2,6 @@
 
 **Data Engineer | Fintech & Banking Domain | Azure | PySpark | SQL**
 
-📍 Gurgaon, India
-📧 avnitsinghs24@gmail.com
-
 ---
 
 ## 🛠️ Tech Stack
