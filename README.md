@@ -4,7 +4,6 @@
 
 📍 Gurgaon, India
 📧 avnitsinghs24@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/avsinghs24/)
 
 ---
 
