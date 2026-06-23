@@ -22,8 +22,8 @@ I am a data-first professional specializing in enterprise-grade cloud architectu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balasubramanian-pg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balasubramanian-pg&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avanit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
