@@ -6,9 +6,9 @@
 I am a data-first professional specializing in enterprise-grade cloud architectures, pipeline orchestration, and compute optimization. I build highly reliable reporting systems that accelerate downstream analytics while keeping infrastructure costs lean.
 
 **What I do:**
-* **Scaling Pipelines:** Engineered distributed ETL pipelines using PySpark and Apache Airflow, processing **2TB+ of daily streaming data** with a strict 99.9% reliability SLA.
-* **Ensuring Reliability:** Decreased critical P1 data incidents by **over 40%** by implementing automated CI/CD workflows and rigorous data quality testing with Great Expectations.
-* **Optimizing Compute:** Redesigned cloud warehouse architecture and partitioned high-volume fact tables, resulting in a **30% reduction in monthly compute costs**.
+* **Building Pipelines:** Developed and maintained ETL pipelines using PySpark and Apache Airflow, reliably processing 250GB+ of daily data while consistently meeting upstream and downstream SLAs..
+* **Ensuring Reliability:** Decreased pipeline failures and data discrepancies by 25% by writing rigorous data quality checks with Great Expectations and actively contributing to CI/CD workflows.
+* **Optimizing Compute:** Optimized complex PySpark jobs and implemented efficient table partitioning, reducing daily batch processing times by 20% and lowering cluster compute costs.
 
 ---
 
@@ -48,10 +48,10 @@ I am a data-first professional specializing in enterprise-grade cloud architectu
 
 | Project | Tools | Description |
 | :--- | :---: | :--- |
-| 💳 **[Azure Card Transaction ETL Pipeline](https://github.com/avanit-singh/azure-card-transaction-etl-pipeline)** | `ADF` `ADLS` `Databricks` `PySpark` | End-to-end ETL pipeline for Master/Visa transaction data |
-| 🏦 **[Customer Churn Analysis](https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers)** | `SQL` `Python` `Power BI` | Churn driver analysis for banking customers |
-| 🛒 **[Merchant Analytics Dashboard](https://github.com/avanit-singh/merchant-transaction-analytics)** | `SQL` `Python` `Power BI` | Payment gateway and settlement performance tracking |
-| 📈 **[Banking KPI Dashboard](https://github.com/avanit-singh/banking-kpi-dashboard)** | `SQL` `Power BI` `Excel` | Executive CASA and loan disbursement reporting |
+| **[Azure Card Transaction ETL Pipeline](https://github.com/avanit-singh/azure-card-transaction-etl-pipeline)** | `ADF` `ADLS` `Databricks` `PySpark` | End-to-end ETL pipeline for Master/Visa transaction data |
+| **[Customer Churn Analysis](https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers)** | `SQL` `Python` `Power BI` | Churn driver analysis for banking customers |
+| **[Merchant Analytics Dashboard](https://github.com/avanit-singh/merchant-transaction-analytics)** | `SQL` `Python` `Power BI` | Payment gateway and settlement performance tracking |
+| **[Banking KPI Dashboard](https://github.com/avanit-singh/banking-kpi-dashboard)** | `SQL` `Power BI` `Excel` | Executive CASA and loan disbursement reporting |
 
 ---
 
