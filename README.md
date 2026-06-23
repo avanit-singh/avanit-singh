@@ -1,4 +1,4 @@
-# Hi, I'm Avanit Singh
+# Hi, I'm Avanit
 
 **Data Nerd | Engineer | Fintech & Banking Domain | Azure | Databricks | PySpark | SQL**
 
