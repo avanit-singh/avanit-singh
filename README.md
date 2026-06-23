@@ -1,18 +1,34 @@
 # Hi, I'm Avanit
 
-**Data Nerd | Engineer | Fintech & Banking Domain | Azure | Databricks | PySpark | SQL**
+# Data Nerd | Engineer | Azure | Databricks | PySpark | SQL | Fintech & Banking Domain **
 
-# About Me 
-I am a data-first professional specializing in enterprise-grade cloud architectures, pipeline orchestration, and compute optimization. I build highly reliable reporting systems that accelerate downstream analytics while keeping infrastructure costs lean.
-
-**What I do:**
-* **Building Pipelines:** Developed and maintained ETL pipelines using PySpark and Apache Airflow, reliably processing 250GB+ of daily data while consistently meeting upstream and downstream SLAs..
-* **Ensuring Reliability:** Decreased pipeline failures and data discrepancies by 25% by writing rigorous data quality checks with Great Expectations and actively contributing to CI/CD workflows.
-* **Optimizing Compute:** Optimized complex PySpark jobs and implemented efficient table partitioning, reducing daily batch processing times by 20% and lowering cluster compute costs.
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avsinghs24/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AVNITSINGHS24@GMAIL.COM)
 
 ---
 
-### **My Tech Stack & Domain Expertise:**
+### About Me 
+I am a data-first professional specializing in enterprise-grade cloud architectures, pipeline orchestration, and compute optimization. I build highly reliable reporting systems that accelerate downstream analytics while keeping infrastructure costs lean.
+
+**What I do:**
+* 🚀 **Building Pipelines:** Developed and maintained ETL pipelines using PySpark and Apache Airflow, reliably processing **250GB+ of daily financial and transaction data** while consistently meeting upstream and downstream SLAs.
+* 🛡️ **Ensuring Reliability:** Decreased pipeline failures by **25%** by writing rigorous data quality checks with Great Expectations, ensuring data integrity for critical KYC/AML and merchant analytics reporting.
+* 💡 **Optimizing Compute:** Optimized complex PySpark jobs and implemented efficient table partitioning, reducing daily batch processing times by **20%** and lowering cluster compute costs.
+* 🌱 **Currently Exploring:** Deepening my knowledge in **Databricks Unity Catalog** for enhanced data governance and exploring **streaming data architectures** with Apache Kafka.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avanit-singh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanit-singh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ My Tech Stack & Domain Expertise
 
 **Languages & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,21 +60,11 @@ I am a data-first professional specializing in enterprise-grade cloud architectu
 
 ---
 
-## Featured Projects
+### 💻 Featured Projects
 
 | Project | Tools | Description |
 | :--- | :---: | :--- |
-| **[Azure Card Transaction ETL Pipeline](https://github.com/avanit-singh/azure-card-transaction-etl-pipeline)** | `ADF` `ADLS` `Databricks` `PySpark` | End-to-end ETL pipeline for Master/Visa transaction data |
-| **[Customer Churn Analysis](https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers)** | `SQL` `Python` `Power BI` | Churn driver analysis for banking customers |
-| **[Merchant Analytics Dashboard](https://github.com/avanit-singh/merchant-transaction-analytics)** | `SQL` `Python` `Power BI` | Payment gateway and settlement performance tracking |
-| **[Banking KPI Dashboard](https://github.com/avanit-singh/banking-kpi-dashboard)** | `SQL` `Power BI` `Excel` | Executive CASA and loan disbursement reporting |
-
----
-
-
-## Certifications
-Microsoft Azure Data Engineer Associate (DP-203) — In Progress
-
----
-
-*Currently open to Data Engineer and Data Analyst opportunities in BFSI domain.*
+| 💳 **[Azure Card Transaction ETL Pipeline](https://github.com/avanit-singh/azure-card-transaction-etl-pipeline)** | `ADF` `ADLS` `Databricks` `PySpark` | End-to-end ETL pipeline for Master/Visa transaction data |
+| 🏦 **[Customer Churn Analysis](https://github.com/avanit-singh/Customer-Churn-Analysis-for-Banking-Customers)** | `SQL` `Python` `Power BI` | Churn driver analysis for banking customers |
+| 🛒 **[Merchant Analytics Dashboard](https://github.com/avanit-singh/merchant-transaction-analytics)** | `SQL` `Python` `Power BI` | Payment gateway and settlement performance tracking |
+| 📈 **[Banking KPI Dashboard](https://github.com/avanit-singh/banking-kpi-dashboard)** | `SQL` `Power BI` `Excel` | Executive CASA and loan disbursement reporting |
