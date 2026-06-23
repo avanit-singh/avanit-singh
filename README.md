@@ -18,18 +18,35 @@ I am a data-first professional specializing in enterprise-grade cloud architectu
 
 ---
 
-## **My Tech Stack:**
+### **My Tech Stack & Domain Expertise:**
 
-**Languages:** Python (Pandas, NumPy), SQL 
+**Languages & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-**Big Data:** PySpark · Apache Spark  
-**Cloud:** Azure Data Lake Storage, Azure Data Factory, Azure Databricks, AWS Databricks
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-**Data Processing:** PySpark, Databricks
+
+**Big Data & Data Processing**  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-**Visualisation:** Power BI, Advanced Excel  
-**Domain:** Fintech, Payments, BFSI, Merchant Analytics, KYC/AML
+
+**Cloud Infrastructure**  
+![Azure Data Lake Storage](https://img.shields.io/badge/Azure_Data_Lake-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS Databricks](https://img.shields.io/badge/AWS_Databricks-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Domain Knowledge**  
+![Fintech](https://img.shields.io/badge/Fintech-2C3E50?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Payments-2C3E50?style=for-the-badge)
+![BFSI](https://img.shields.io/badge/BFSI-2C3E50?style=for-the-badge)
+![Merchant Analytics](https://img.shields.io/badge/Merchant_Analytics-2C3E50?style=for-the-badge)
+![KYC/AML](https://img.shields.io/badge/KYC%2FAML-2C3E50?style=for-the-badge)
 
 ---
 
