@@ -10,12 +10,6 @@ I am a data-first professional specializing in enterprise-grade cloud architectu
 * **Ensuring Reliability:** Decreased critical P1 data incidents by **over 40%** by implementing automated CI/CD workflows and rigorous data quality testing with Great Expectations.
 * **Optimizing Compute:** Redesigned cloud warehouse architecture and partitioned high-volume fact tables, resulting in a **30% reduction in monthly compute costs**.
 
-
-* **Languages:** Python, Advanced SQL
-* **Orchestration & Testing:** Apache Airflow, Great Expectations
-* **DevOps & Architecture:** Cloud Data Warehouses, CI/CD Pipelines
-
-
 ---
 
 ### **My Tech Stack & Domain Expertise:**
